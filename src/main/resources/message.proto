@@ -1,0 +1,7 @@
+option java_package = "org.darion.protocol"; 
+option java_outer_classname = "Message";
+
+message MessageBuffer{
+    required string key = 1;
+    required string val = 2;
+}
