@@ -8,7 +8,7 @@ package object thrift {
   def main(args: Array[String]) {
     val serverTransport = new TServerSocket(8989);
     val args = new Args(serverTransport)
-    args.processor(processor)
+//    args.processor(processor)
     val server = new TSimpleServer(args)
     
   }

@@ -26,8 +26,8 @@
 	<classpathentry exported="true" kind="lib" path="/Users/2011204/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.1/ed3e1a6b0615dea666a7eaf753b03030f3f889/scala-library-2.10.1.jar" sourcepath="/Users/2011204/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.1/74ea8c5004d5f7c50e0deb5b9295295e1d8f7cd/scala-library-2.10.1-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="/Users/2011204/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar" sourcepath="/Users/2011204/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/654135274d4c27132ea208a4ec07f344bdb83bcb/slf4j-api-1.7.5-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="/Users/2011204/.gradle/caches/modules-2/files-2.1/org.xerial.snappy/snappy-java/1.0.5/10cb4550360a0ec6b80f09a5209d00b6058e82bf/snappy-java-1.0.5.jar" sourcepath="/Users/2011204/.gradle/caches/modules-2/files-2.1/org.xerial.snappy/snappy-java/1.0.5/d88f405e03c9651dce17bac79acf1eef9b343c48/snappy-java-1.0.5-sources.jar"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
