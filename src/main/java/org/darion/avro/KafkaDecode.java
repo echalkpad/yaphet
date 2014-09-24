@@ -9,7 +9,6 @@ public class KafkaDecode implements Decoder<User> {
 	public KafkaDecode(VerifiableProperties properties) {
 	}
 
-	@Override
 	public User fromBytes(byte[] arg0) {
 		return null;
 	}

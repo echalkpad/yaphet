@@ -9,7 +9,6 @@ import kafka.serializer.Encoder;
 
 public class KafkaEncode implements Encoder<User> {
 
-	@Override
 	public byte[] toBytes(User user) {
 		Schema schema = Schema
 				.parse("{\"namespace\": \"example.avro\",\"type\": "

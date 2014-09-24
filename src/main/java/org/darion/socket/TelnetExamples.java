@@ -17,7 +17,7 @@ public class TelnetExamples {
 			BufferedReader reader = new BufferedReader(new InputStreamReader(
 					inputStream));
 			String line = reader.readLine();
-			if (line != null || line.length() != 0) {
+			if (line != null && line.length() != 0) {
 				System.out.println(line);
 			}
 		}
